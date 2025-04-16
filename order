@@ -1,1 +1,1 @@
-FROM hyperledger/fabric-order:2.5.12
+FROM hyperledger/fabric-orderer:2.5.12
